@@ -1,0 +1,85 @@
+{
+  "events": [
+    {
+      "id": "s1",
+      "label": "Semester 1 Start",
+      "type": "academic"
+    },
+    {
+      "id": "cp1",
+      "label": "Curriculum Planning",
+      "type": "academic"
+    },
+    {
+      "id": "ccm1",
+      "label": "CCM",
+      "type": "academic"
+    },
+    {
+      "id": "mid1",
+      "label": "Mid-Sem",
+      "type": "academic"
+    },
+    {
+      "id": "ia1",
+      "label": "Internal Audit 01",
+      "type": "audit"
+    },
+    {
+      "id": "ext1",
+      "label": "KU External Audit 01",
+      "type": "audit"
+    },
+    {
+      "id": "exam1",
+      "label": "Final Exam",
+      "type": "academic"
+    },
+    {
+      "id": "break1",
+      "label": "Semester Break",
+      "type": "academic"
+    },
+    {
+      "id": "s2",
+      "label": "Semester 2 Start",
+      "type": "academic"
+    },
+    {
+      "id": "cp2",
+      "label": "Curriculum Planning",
+      "type": "academic"
+    },
+    {
+      "id": "ccm2",
+      "label": "CCM",
+      "type": "academic"
+    },
+    {
+      "id": "mid2",
+      "label": "Mid-Sem",
+      "type": "academic"
+    },
+    {
+      "id": "ia2",
+      "label": "Internal Audit 02",
+      "type": "audit"
+    },
+    {
+      "id": "ext2",
+      "label": "KU External Audit 02",
+      "type": "audit"
+    },
+    {
+      "id": "exam2",
+      "label": "Final Exam",
+      "type": "academic"
+    },
+    {
+      "id": "break2",
+      "label": "Semester Break",
+      "type": "academic"
+    }
+  ],
+  "rule": "Section 2 is an event orbit only. No stakeholders or relationship lines."
+}

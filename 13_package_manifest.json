@@ -1,0 +1,26 @@
+{
+  "files": [
+    "00_master_build_spec.json",
+    "01_visual_design_language.json",
+    "02_narrative_and_content.json",
+    "03_section_3_task_data.json",
+    "04_annual_cycle.json",
+    "05_audit_journey.json",
+    "06_interaction_and_scroll_spec.json",
+    "07_google_ai_studio_prompts.json",
+    "08_acceptance_and_quality_checks.json",
+    "09_technical_stack_and_project_architecture.json",
+    "10_google_ai_studio_technical_override.txt",
+    "11_package_json_reference.json",
+    "12_tailwind_and_css_tokens.json",
+    "13_package_manifest.json"
+  ],
+  "usage": [
+    "Upload the JSON files to Google AI Studio Build mode as project context.",
+    "Start with 07_google_ai_studio_prompts.json primary_prompt.",
+    "If AI Studio starts with generic React/Vite, immediately apply 10_google_ai_studio_technical_override.txt.",
+    "Use the refinement prompts one at a time.",
+    "Use 08_acceptance_and_quality_checks.json before final presentation."
+  ],
+  "source_note": "Research-derived content is kept separate from user-specified Section 3 data and configurable placeholders."
+}

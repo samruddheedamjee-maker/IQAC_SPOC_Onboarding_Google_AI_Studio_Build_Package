@@ -1,0 +1,63 @@
+{
+  "direction": "Editorial information design + modern institutional digital experience.",
+  "keywords": [
+    "calm",
+    "precise",
+    "architectural",
+    "systemic",
+    "editorial",
+    "credible",
+    "interactive"
+  ],
+  "avoid": [
+    "generic SaaS dashboard",
+    "dense admin tables",
+    "neon",
+    "excessive gradients",
+    "glassmorphism",
+    "cartoonish graphics",
+    "stock imagery",
+    "chatbot aesthetic"
+  ],
+  "colors": {
+    "background": "#F7F7F4",
+    "surface": "#FFFFFF",
+    "ink": "#171717",
+    "muted": "#6B6B6B",
+    "line": "#D9D9D3",
+    "primary": "#2457E6",
+    "primary_dark": "#163EAE",
+    "primary_soft": "#E9EEFF",
+    "success": "#2E8B57",
+    "warning": "#D88A18",
+    "audit": "#C94D4D"
+  },
+  "typography": {
+    "font": "Inter/Geist/system sans",
+    "body": "16–18px",
+    "labels": "12–14px",
+    "headings": "large, compact, confident"
+  },
+  "layout": {
+    "max_width": "1440px",
+    "desktop_grid": "12 columns",
+    "hero": "85–100vh",
+    "section_spacing": "large",
+    "text_measure": "45–65 characters per line"
+  },
+  "motion": {
+    "enter": "fade + 12–24px translate",
+    "duration": "500–800ms",
+    "hover": "150–250ms",
+    "reduced_motion": "disable choreography"
+  },
+  "graphic_language": [
+    "thin rules",
+    "dotted connectors",
+    "outline icons",
+    "circles",
+    "rounded rectangles",
+    "subtle depth",
+    "strong whitespace"
+  ]
+}

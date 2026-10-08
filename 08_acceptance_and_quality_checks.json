@@ -1,0 +1,23 @@
+{
+  "must_have": [
+    "Single guided onboarding page.",
+    "Four clear chapters: WHAT, WHEN, WHAT DO I OWN, THEN WHAT.",
+    "Section 2 has only events and four audit milestones; no stakeholders or relationship lines.",
+    "Section 3 has exact eight user-provided titles and exact subsection lists.",
+    "Section 3 responsibility/deadline fields never invent data.",
+    "Section 4 has exact ten-stage audit journey.",
+    "Section 4 fills progressively with scroll.",
+    "Mobile and reduced-motion fallbacks work.",
+    "No dashboard/live-tracker/ERP/auth/database/AI chatbot in v1.",
+    "Next.js App Router + TypeScript + Tailwind architecture."
+  ],
+  "technical": [
+    "npm run build passes",
+    "No TypeScript errors",
+    "No hydration mismatch",
+    "No console errors during normal use",
+    "Interactive controls keyboard accessible",
+    "No excessive animation loops",
+    "Large media lazy-loaded"
+  ]
+}

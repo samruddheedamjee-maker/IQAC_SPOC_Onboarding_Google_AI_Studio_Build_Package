@@ -1,0 +1,37 @@
+{
+  "global": {
+    "smooth_native_scroll": true,
+    "chapter_nav": [
+      "WHAT",
+      "WHEN",
+      "OWN",
+      "THEN"
+    ],
+    "progress_indicator": "thin progress line"
+  },
+  "section_1": {
+    "trigger": "viewport entry",
+    "technique": "IntersectionObserver + Motion",
+    "behavior": "Reveal infographic beats sequentially; no sound required; replay optional."
+  },
+  "section_2": {
+    "behavior": "Orbit settles into view; click event nodes; hover highlight; detail card; Escape/outside click closes.",
+    "mobile": "Bottom-sheet card."
+  },
+  "section_3": {
+    "behavior": "Slab rises into view; cards lift on hover; connector brightens; click opens panel; selected card remains highlighted.",
+    "mobile": "Flatten into accessible stacked cards while retaining section order."
+  },
+  "section_4": {
+    "behavior": "Pin section; map scroll progress 0–100% to horizontal journey; nodes progress hollow→active→filled; connectors fill.",
+    "desktop": "Horizontal cinematic journey.",
+    "mobile": "Normal vertical step sequence.",
+    "reduced_motion": "No pinning; ordinary vertical sequence."
+  },
+  "accessibility": {
+    "keyboard": "All interactive elements are buttons and keyboard reachable.",
+    "focus": "Visible focus state.",
+    "contrast": "WCAG AA target.",
+    "reduced_motion": "Respect prefers-reduced-motion."
+  }
+}

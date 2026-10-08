@@ -1,0 +1,80 @@
+{
+  "hero": {
+    "title": "WELCOME TO IQAC",
+    "subtitle": "Your guide to understanding the IQAC system, your responsibilities, and the audit cycle.",
+    "cta": "Start the walkthrough"
+  },
+  "section_1": {
+    "title": "01 — WHAT?",
+    "headline": "Before you manage the process, understand the system.",
+    "beats": [
+      "What is IQAC? — Use institution-approved wording if available; otherwise keep the explanation high-level.",
+      "Why does it exist? — Show activity → evidence → review/audit → observation → correction/improvement → preserved learning.",
+      "Where does it sit? — Show the wider quality context and department-level IQAC. Use verified institutional names only.",
+      "What is a SPOC? — Present the SPOC as a coordination point for collection, tracking, verification, communication, audit preparation and follow-through.",
+      "What does a SPOC do? — UNDERSTAND → COLLECT → TRACK → VERIFY → COORDINATE → CARRY FORWARD."
+    ],
+    "implementation": "Motion-graphic/video-style sequence. If no actual video is supplied, create it with HTML/CSS/SVG/Motion."
+  },
+  "section_2": {
+    "title": "02 — WHEN?",
+    "headline": "See IQAC across the academic year.",
+    "critical_rule": "Only events. NO stakeholders, NO relationship lines, NO interaction spaghetti.",
+    "model": "Circular academic-year orbit.",
+    "events": [
+      "Semester 1 Start",
+      "Curriculum Planning",
+      "CCM",
+      "Mid-Sem",
+      "Internal Audit 01",
+      "KU External Audit 01",
+      "Final Exam",
+      "Semester Break",
+      "Semester 2 Start",
+      "Curriculum Planning",
+      "CCM",
+      "Mid-Sem",
+      "Internal Audit 02",
+      "KU External Audit 02",
+      "Final Exam",
+      "Semester Break"
+    ],
+    "audit_rule": "The four audit milestones are a prototype annual representation. Exact dates/cadence remain configurable unless institutionally confirmed.",
+    "card_fields": [
+      "What is it?",
+      "When does it usually occur?",
+      "Why does it matter to a SPOC?",
+      "What should I be aware of?"
+    ]
+  },
+  "section_3": {
+    "title": "03 — WHAT DO I OWN?",
+    "headline": "Know what evidence lives inside the IQAC task list.",
+    "interaction": "Click one of eight slab-attached section cards; open a compact detail panel showing subsections and configurable responsibility/deadline/status."
+  },
+  "section_4": {
+    "title": "04 — THEN WHAT?",
+    "headline": "Follow the audit from start to carry-forward.",
+    "steps": [
+      "INITIATE",
+      "TRACK",
+      "REMIND",
+      "VERIFY",
+      "SUBMIT",
+      "INTERNAL AUDIT",
+      "AUDIT REPORT",
+      "CORRECTION",
+      "EXTERNAL AUDIT",
+      "CARRY FORWARD"
+    ],
+    "interaction": "Pinned section; vertical scroll controls horizontal journey; completed nodes fill left-to-right."
+  },
+  "closing": {
+    "title": "You're ready to begin.",
+    "actions": [
+      "Review the audit cycle",
+      "Review documentation areas",
+      "Enter IQAC workspace"
+    ]
+  }
+}

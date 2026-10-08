@@ -1,0 +1,25 @@
+{
+  "tailwind_strategy": "Use Tailwind utilities plus semantic CSS variables. Keep the visual system centralized.",
+  "css_variables": {
+    "background": "#F7F7F4",
+    "surface": "#FFFFFF",
+    "ink": "#171717",
+    "muted": "#6B6B6B",
+    "line": "#D9D9D3",
+    "primary": "#2457E6",
+    "primary_dark": "#163EAE",
+    "primary_soft": "#E9EEFF",
+    "success": "#2E8B57",
+    "warning": "#D88A18",
+    "audit": "#C94D4D"
+  },
+  "spacing": "Use generous section spacing and consistent 4/8px-derived spacing.",
+  "radius": "Mostly 8–20px; circles for progress/event nodes.",
+  "shadow": "Very subtle; reserve stronger shadow for slab depth and floating panels.",
+  "breakpoints": {
+    "mobile": "<768px",
+    "tablet": "768–1199px",
+    "desktop": "1200px+"
+  },
+  "special": "Do not let Tailwind utility proliferation replace component-level visual structure."
+}

@@ -1,0 +1,54 @@
+{
+  "framework": "Next.js App Router",
+  "language": "TypeScript",
+  "styling": "Tailwind CSS",
+  "animation": "motion + optional GSAP/ScrollTrigger",
+  "icons": "lucide-react",
+  "3d": "CSS 3D transforms",
+  "dependencies": [
+    "next",
+    "react",
+    "react-dom",
+    "lucide-react",
+    "motion",
+    "clsx",
+    "tailwind-merge"
+  ],
+  "optional": [
+    "gsap",
+    "@gsap/react",
+    "lenis"
+  ],
+  "directories": [
+    "app/",
+    "components/",
+    "data/",
+    "lib/",
+    "public/"
+  ],
+  "tailwind_tokens": {
+    "background": "#F7F7F4",
+    "surface": "#FFFFFF",
+    "ink": "#171717",
+    "muted": "#6B6B6B",
+    "line": "#D9D9D3",
+    "primary": "#2457E6",
+    "primary_dark": "#163EAE",
+    "primary_soft": "#E9EEFF",
+    "success": "#2E8B57",
+    "warning": "#D88A18",
+    "audit": "#C94D4D"
+  },
+  "next_rules": [
+    "Server Components by default",
+    "Client components only for browser interaction",
+    "No backend for v1"
+  ],
+  "scroll_implementation": {
+    "section_1": "IntersectionObserver + Motion",
+    "section_2": "CSS transforms + React state",
+    "section_3": "CSS 3D + React state",
+    "section_4": "GSAP ScrollTrigger with fallback"
+  },
+  "important": "Google AI Studio's web Build mode currently defaults to React but supports npm packages and a Node.js runtime; explicitly request Next.js in the build prompt rather than accepting the default generic React structure."
+}

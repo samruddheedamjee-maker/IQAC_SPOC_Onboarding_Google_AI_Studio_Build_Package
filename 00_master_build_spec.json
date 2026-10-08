@@ -1,0 +1,23 @@
+{
+  "project": "KU IQAC SPOC Onboarding Experience",
+  "purpose": "A single-page interactive onboarding experience for a newly appointed IQAC SPOC. It explains what IQAC is, when major activities occur, what documentation areas exist, and how the audit cycle progresses.",
+  "scope": "Onboarding only. Not a dashboard, ERP, live tracker, document-management system, login system, or AI assistant.",
+  "core_narrative": [
+    "WHAT?",
+    "WHEN?",
+    "WHAT DO I OWN?",
+    "THEN WHAT?"
+  ],
+  "research_basis": [
+    "SPOC needs to understand timeline and expectations.",
+    "SPOC tracks documents, follows up, verifies evidence, coordinates audit remarks/corrections and preserves records.",
+    "Research identified fragmented documentation, repeated reminders, incomplete documentation, retrieval difficulty, unclear correction ownership and deadline pressure."
+  ],
+  "source_priority": [
+    "User-provided research/artifacts",
+    "Exact user-provided Section 3 content",
+    "Configured sample data",
+    "Never invent institutional requirements, dates, names or official wording."
+  ],
+  "final_outcome": "The new SPOC leaves with a mental model of the system rather than a pile of instructions."
+}

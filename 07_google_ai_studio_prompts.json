@@ -1,0 +1,12 @@
+{
+  "primary_prompt": "Build a single-page IQAC SPOC Onboarding Experience for a newly appointed university IQAC SPOC. This is an onboarding website, NOT a dashboard. Use the attached JSON files as source of truth. Build with Next.js App Router + TypeScript + Tailwind CSS. Use Motion for normal transitions, GSAP ScrollTrigger only if needed for Section 4, lucide-react for icons, CSS 3D transforms for Section 3. Keep content in local JSON. No Firebase, authentication, database, Gemini API or live backend. Create four sections WHAT, WHEN, WHAT DO I OWN, THEN WHAT. Section 2 must contain only the academic-year orbit and events: no stakeholders and no relationship lines. Section 3 must use the exact eight titles and exact subsections in 03_section_3_task_data.json. Section 4 must use the exact ten audit stages in 05_audit_journey.json. Never invent institutional names, dates, people, requirements or deadlines. Use 'To be confirmed by IQAC' when unknown. Build responsive mobile fallbacks and reduced-motion behavior. Verify the app builds successfully before finishing.",
+  "refinement_prompts": [
+    "Improve Section 1 so it reads as a motion-graphic explainer rather than a text-heavy webpage.",
+    "Remove every stakeholder and relationship line from Section 2. It must be an event-only academic-year orbit.",
+    "Make Section 3's slab the visual hero; improve perspective, connector lines and detail-panel transitions without creating a SaaS-dashboard look.",
+    "Make Section 4's scroll-driven horizontal journey smooth and robust; add a mobile vertical fallback.",
+    "Audit all content for invented dates, names, responsibilities or official claims and replace unsupported data with configurable placeholders.",
+    "Polish accessibility, keyboard controls, reduced-motion mode, contrast, hydration and responsive behavior.",
+    "Run build/type checks and fix every error before further visual refinement."
+  ]
+}

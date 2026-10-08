@@ -1,0 +1,103 @@
+{
+  "steps": [
+    {
+      "id": "initiate",
+      "label": "INITIATE",
+      "description": "Understand the audit timeline, requirements and immediate expectations.",
+      "actions": [
+        "Understand timeline",
+        "Communicate to faculty and HOD",
+        "Give directions for the deadline"
+      ]
+    },
+    {
+      "id": "track",
+      "label": "TRACK",
+      "description": "Track submitted and pending documentation.",
+      "actions": [
+        "Keep submitted/pending record",
+        "Check required files",
+        "Organize received files"
+      ]
+    },
+    {
+      "id": "remind",
+      "label": "REMIND",
+      "description": "Follow up on pending documentation.",
+      "actions": [
+        "Send reminders",
+        "Follow up",
+        "Escalate delays when required"
+      ]
+    },
+    {
+      "id": "verify",
+      "label": "VERIFY",
+      "description": "Check evidence against requirements before submission.",
+      "actions": [
+        "Check documents",
+        "Coordinate with faculty/HOD",
+        "Identify missing or incorrect evidence"
+      ]
+    },
+    {
+      "id": "submit",
+      "label": "SUBMIT",
+      "description": "Organize and submit required documentation.",
+      "actions": [
+        "Keep documents organized",
+        "Share/submit required documents"
+      ]
+    },
+    {
+      "id": "internal",
+      "label": "INTERNAL AUDIT",
+      "description": "Coordinate with auditors and provide requested documentation.",
+      "actions": [
+        "Coordinate with auditors",
+        "Provide requested documents",
+        "Record observations"
+      ]
+    },
+    {
+      "id": "report",
+      "label": "AUDIT REPORT",
+      "description": "Consolidate and communicate audit remarks.",
+      "actions": [
+        "Prepare remarks report",
+        "Communicate remarks to relevant POC/HOD"
+      ]
+    },
+    {
+      "id": "correction",
+      "label": "CORRECTION",
+      "description": "Coordinate corrections and re-verify evidence.",
+      "actions": [
+        "Send targeted notices",
+        "Follow up",
+        "Collect corrected files",
+        "Re-verify"
+      ]
+    },
+    {
+      "id": "external",
+      "label": "EXTERNAL AUDIT",
+      "description": "Coordinate with external/university auditors.",
+      "actions": [
+        "Coordinate",
+        "Provide requested evidence",
+        "Record observations"
+      ]
+    },
+    {
+      "id": "carry",
+      "label": "CARRY FORWARD",
+      "description": "Preserve documentation and learning for future cycles.",
+      "actions": [
+        "Preserve documentation",
+        "Update records/database",
+        "Note recurring issues"
+      ]
+    }
+  ]
+}

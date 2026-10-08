@@ -1,0 +1,108 @@
+{
+  "sections": [
+    {
+      "id": "section_1",
+      "title": "Academic Documents",
+      "subsections": [
+        "Academic Calendar",
+        "Time-Table (Theory & Lab) (Master TT & Individual TT)",
+        "Board of Studies Documents",
+        "List of Faculty Members in the Department",
+        "List of Students Across All Programs",
+        "Course Files (Syllabus, Lesson Plan, Assignments, Sample Evaluated Answer Sheets, Study Material, Question Bank)",
+        "Program Outcomes and Program Specific Outcomes",
+        "Student Attendance Records",
+        "Feedback Collected, Analyzed and Actions Taken Report",
+        "Mentor Mentee Records"
+      ]
+    },
+    {
+      "id": "section_2",
+      "title": "Faculty Records",
+      "subsections": [
+        "Faculty Profiles (Qualification & Experience)",
+        "Workload Distribution Sheet",
+        "FDP Participation Certificates",
+        "Research Publications List",
+        "E-Content Development",
+        "PhD Scholar Supervision Details"
+      ]
+    },
+    {
+      "id": "section_3",
+      "title": "Examination & Evaluation Documents",
+      "subsections": [
+        "Internal Assessment Records",
+        "Mid-Sem Examination Records",
+        "Sample Answer Scripts",
+        "Question Paper Archive",
+        "Evaluation Rubrics / Schemes",
+        "Moderation Records"
+      ]
+    },
+    {
+      "id": "section_4",
+      "title": "Research and Development Activities",
+      "subsections": [
+        "Research Project Proposals & Approvals",
+        "Funded Project Reports",
+        "Seed Money Project Documents",
+        "Patents Filed and Published",
+        "Consultancy Project Documents",
+        "Books and Book Chapters",
+        "Awards & Recognitions by Faculty",
+        "Doctoral & Post-Doctoral Fellows",
+        "Collaboration MoUs",
+        "List of Research Scholars",
+        "Conference Attended by Faculty Members",
+        "Awards Received by Faculty Members"
+      ]
+    },
+    {
+      "id": "section_5",
+      "title": "Administrative Records",
+      "subsections": [
+        "Department Meeting Minutes",
+        "Department Library",
+        "Inventory of Lab Equipment & Resources",
+        "Maintenance & Safety Compliance Records",
+        "Action Plan & Budget Utilization Records"
+      ]
+    },
+    {
+      "id": "section_6",
+      "title": "Student Support and Welfare",
+      "subsections": [
+        "Student Feedback Reports",
+        "Placement / Career Guidance Records",
+        "Remedial Coaching Records (if any)",
+        "Scholarships & Financial Aid Records"
+      ]
+    },
+    {
+      "id": "section_7",
+      "title": "Student Related Documents",
+      "subsections": [
+        "Internship / Project Work Documentation",
+        "Co-curricular & Extra-curricular Activity Records",
+        "Grievance Redressal Records",
+        "Scholarships & Financial Aid Records"
+      ]
+    },
+    {
+      "id": "section_8",
+      "title": "Innovation and Extension Activities",
+      "subsections": [
+        "Workshop / Seminar / Webinar Details",
+        "Community Engagement / Social Responsibility Activities",
+        "Entrepreneurship Development Programs"
+      ]
+    }
+  ],
+  "metadata_policy": {
+    "responsible_role": "Use configurable field; never invent person.",
+    "deadline": "Use configurable field; never invent date.",
+    "default_unknown": "To be confirmed by IQAC.",
+    "status": "Informational in onboarding v1, not live task state."
+  }
+}

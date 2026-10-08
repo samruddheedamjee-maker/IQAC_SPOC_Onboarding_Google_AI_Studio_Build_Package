@@ -1,0 +1,33 @@
+{
+  "name": "iqac-spoc-onboarding",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "clsx": "latest",
+    "lucide-react": "latest",
+    "motion": "latest",
+    "tailwind-merge": "latest"
+  },
+  "optionalDependencies": {
+    "gsap": "latest",
+    "@gsap/react": "latest",
+    "lenis": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "tailwindcss": "latest",
+    "postcss": "latest",
+    "eslint": "latest"
+  },
+  "note": "Reference only; let Google AI Studio resolve compatible versions."
+}
